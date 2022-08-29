@@ -10,18 +10,6 @@ public class Selectors {
         selectors.put("saucedemo","saucedemo");
         selectors.put("Login", "#login-button");
         selectors.put("inventory","inventory");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-        selectors.put("","");
-
 
     }
 

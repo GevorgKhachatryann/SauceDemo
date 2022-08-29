@@ -15,10 +15,6 @@ public class LoginSteps extends LoginPage {
     public LoginSteps(BaseClass base) {
         super(base);
     }
-//    @Given("The user is on the Home Page")
-//    public void TheUserIsOnTheLoginPage() {
-//        loginPage();
-//    }
     @And("The user provides the username as {string} and password as {string}")
     public void UserProvidesTheUsernameAsAndPasswordAs(String username, String password) {
         fillUsernameField(username);
